@@ -6,19 +6,23 @@ https://arxiv.org/pdf/1411.4734v4.pdf
 
 Extended model architecture and loss fn to the newer paper.  
 
-Model Results: 
+Model Results:   
+(image, ground truth depth, model prediction)
 ![alt text](https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/model-results-1.png)
 
 
 Model Arch:
+
 <img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/network-architecture.png" align="center" width="600"/>
 
 
 Loss Fn:
+
 <img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/loss-fn.png" align="center" width="500"/>
 
 
 Predictions on test image:
+
 <img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/sample-image.png" align="center" width="400"/>
 
 
