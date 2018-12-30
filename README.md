@@ -11,17 +11,14 @@ Model Results:
 
 
 Model Arch:
-
 <img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/network-architecture.png" align="center" width="600"/>
 
 
 Loss Fn:
-
 <img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/loss-fn.png" align="center" width="500"/>
 
 
 Predictions on test image:
-
 <img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/sample-image.png" align="center" width="400"/>
 
 
