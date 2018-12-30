@@ -9,15 +9,20 @@ Extended model architecture and loss fn to the newer paper.
 Model Results: 
 ![alt text](https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/model-results-1.png)
 
+
 Model Arch:
-![alt text](https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/network-architecture.png)
+
+<img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/network-architecture.png" align="center" width="600"/>
+
 
 Loss Fn:
-![alt text](https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/loss-fn.png)
+
+<img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/loss-fn.png" align="center" width="500"/>
 
 
-Prediction on test image:
-![alt text](https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/sample-image.png)
+Predictions on test image:
+
+<img src="https://raw.githubusercontent.com/DhruvJawalkar/Depth-Map-Prediction-from-a-Single-Image-using-a-Multi-Scale-Deep-Network/master/results/sample-image.png" align="center" width="400"/>
 
 
 Pros: 
